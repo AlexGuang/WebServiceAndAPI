@@ -1,0 +1,16 @@
+<pizza>
+    <size>
+        small
+    </size>
+    <toppings>
+        <topping>
+            Onions
+        </topping>
+        <topping>
+            Mushroom
+        </topping>
+    </toppings>
+    <firze>
+        strong
+    </firze>
+</pizza>
